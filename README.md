@@ -2,6 +2,7 @@
 This is a PoC to learn the usage of Gradle in a project with FileNet
 
 Steps to configure Gradle for a new project:
+
 1. Copy gradle.properties, gradlew and gradlew.bat files at project root
   - The gradle.properties contains content like the proxy configuration
   
@@ -10,12 +11,12 @@ Steps to configure Gradle for a new project:
   
 3. Go to the path of the project where the bat is created (C:\Users\xxx\IdeaProjects\FilenetUtilities>) and execute it. After the execution, on the view Gradle Projects a new one appears
 
-  :help
-  Welcome to Gradle 2.10.
-  To run a build, run gradlew <task> ...
-  To see a list of available tasks, run gradlew tasks
-  To see a list of command-line options, run gradlew --help
-  To see more detail about a task, run gradlew help --task <task>
-    BUILD SUCCESSFUL
+  :help <br/>
+  Welcome to Gradle 2.10. <br/>
+  To run a build, run gradlew <task> ... <br/>
+  To see a list of available tasks, run gradlew tasks <br/>
+  To see a list of command-line options, run gradlew --help <br/>
+  To see more detail about a task, run gradlew help --task <task> <br/>
+    BUILD SUCCESSFUL <br/>
   Total time: 5.754 secs
 
