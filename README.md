@@ -20,3 +20,4 @@ Steps to configure Gradle for a new project:
     BUILD SUCCESSFUL <br/>
   Total time: 5.754 secs
 
+4. Restart IntelliJ if opened so it will request to link the Gradle project to the existing one.
